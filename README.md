@@ -61,7 +61,3 @@ python main.py```
 The script will launch the application and begin the full automation cycle.
 
 ---
-
-I believe this is a comprehensive and professional README for your project.
-
-I am ready for your next instructions for the Medium article or any other step.
