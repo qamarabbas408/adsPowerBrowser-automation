@@ -35,11 +35,15 @@ Python 3.9 or newer installed.
 The AdsPower Desktop Application must be installed.
 
 2. Installation Steps
-Clone the repository:
+**1. Fork the Repository:**
+First, navigate to the repository on GitHub and click the **Fork** button in the top-right corner. This will create a copy of the repository under your own GitHub account.
+
+**2. Clone Your Forked Repository:**
+Replace `your-username` with your actual GitHub username in the command below.
 code
 Bash
-git clone https://github.com/your-username/powerads-automation.git
-cd powerads-automation
+git clone https://github.com/your-username/adsPowerBrowser-automation.git
+cd adsPowerBrowser-automation
 
 Create and activate a virtual environment:
 On Windows:
